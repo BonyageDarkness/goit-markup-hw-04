@@ -328,6 +328,7 @@ section {
 .team-div {
     padding: 32px 0;
     text-align: center;
+    margin-bottom: 8px;
 }
 
 .team-subtitle {
@@ -337,7 +338,6 @@ section {
     font-weight: 500;
     line-height: 1.2;
     letter-spacing: 0.02em;
-    margin-bottom: 8px;
 }
 
 .team-item-text {
@@ -352,7 +352,7 @@ section {
     display: flex;
     align-items: center;
     justify-content: center;
-    padding-top: 8px;
+    margin-top: 8px;
     gap: 24px;
 }
 
@@ -449,7 +449,6 @@ section {
     padding: 40px 32px;
     transform: translateY(100%);
     transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
-    display: flex;
     align-items: center;
     cursor: pointer;
 }
